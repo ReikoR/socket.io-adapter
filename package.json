@@ -4,7 +4,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Automattic/socket.io-adapter.git"
+    "url": "git://github.com/socketio/socket.io-adapter.git"
   },
   "description": "",
   "dependencies": {
